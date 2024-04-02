@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🎉 I'm a passionate software developer with a lo
 ## About Me ℹ️
 
 
-- 🎓 Education: computer science student at BMS college of Engineering,Bengaluru
+- 🎓 Education: information science student at BMS college of Engineering,Bengaluru
 
 ## Get in Touch 📫
 
